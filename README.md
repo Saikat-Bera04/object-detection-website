@@ -28,11 +28,11 @@ To run locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/object-detection-app.git
+git clone https://github.com/saikat-bera04/object-detection-website.git
 ```
 2. Navigate to the project directory:
 ```bash
-cd object-detection-app
+cd object-detection-website
 ```
 3. Open `index.html` in your browser
 
