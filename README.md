@@ -99,7 +99,7 @@ MIT License - see [LICENSE](LICENSE) file for details
 
 ---
 
-Created with ❤️ by [Your Name]  
-[![GitHub](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)
+Created with ❤️ by Saikat Bera  
+[![GitHub](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/Saikat-Bera04)
 
-*Replace all "your-username" references with your actual GitHub username*
+*Replace all "Saikat-Bera04" references with your actual GitHub username*
